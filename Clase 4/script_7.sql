@@ -1,1 +1,1 @@
-﻿select * from view_empleado_informacion;
+﻿SELECT * FROM view_empleado_informacion;

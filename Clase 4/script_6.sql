@@ -1,4 +1,4 @@
-﻿Create view view_empleado_informacion as
+﻿CREATE VIEW view_empleado_informacion as
 
 SELECT 
   empleado.nombre, 
