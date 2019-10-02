@@ -1,0 +1,1 @@
+﻿select * from view_empleado_informacion;
